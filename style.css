@@ -132,7 +132,7 @@ section:is(.card_3, .card_5) {
     background-color: var(--clr-primary-100);
     color: var(--clr-primary-700);
     box-shadow: .5rem 1.5rem 1.5rem
-    hsl(var(--clr-primary-hsl-700), .1);
+    hsl(var(--clr-primary-hsl-700), .2);
 }
 
 .card_1 {
