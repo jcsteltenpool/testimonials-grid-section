@@ -8,7 +8,6 @@ This is my solution to the [Testimonials grid section challenge on Frontend Ment
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -34,8 +33,6 @@ Users should be able to:
 
 - Solution URL: [https://github.com/jcsteltenpool/testimonials-grid-section](https://github.com/jcsteltenpool/testimonials-grid-section)
 - Live Site URL: [https://jcsteltenpool.github.io/testimonials-grid-section/](https://jcsteltenpool.github.io/testimonials-grid-section/)
-
-## My process
 
 ### Built with
 
