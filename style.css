@@ -131,7 +131,7 @@ section:is(.card_1, .card_2, .card_4) {
 section:is(.card_3, .card_5) {
     background-color: var(--clr-primary-100);
     color: var(--clr-primary-700);
-    box-shadow: .5rem 1.5rem 1.5rem
+    box-shadow: 0.5rem 1rem 2rem
     hsl(var(--clr-primary-hsl-700), .2);
 }
 
@@ -146,7 +146,7 @@ section:is(.card_3, .card_5) {
 
 .quotation-marks {
     position: absolute;
-    right: 10%;
+    right: 14%;
     z-index: 1;
 }
 
